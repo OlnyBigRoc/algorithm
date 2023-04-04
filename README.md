@@ -1,2 +1,2 @@
 # algorithm
-算法训练小组
+算法训练小组over
